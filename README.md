@@ -8,13 +8,13 @@ After this lesson, students will be able to:
 - Review the Data science workflow
 - Create problems from the analytical mind of a data science professional
 
-### Part One: KMeans
+### Part One: KMeans and Clustering Techniques
 - Determine the difference between supervised and unsupervised learning.
 - Demonstrate how to apply k-means clustering.
+- Explore additional clustering techniques
 
-### Part Two: DBScan
-- Demonstrate how to apply density-based clustering (DBSCAN).
-- Define the Silhouette Coefficient and explain how it relates to clustering.
+### Part Two: Decision Trees
+- Discuss the Fundamentals of Logic conditions with Decision trees and additional techniques
 
 ---
 
